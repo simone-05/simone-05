@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simone-05
 - 👀 I’m interested in breakfast and coding oc
-- 🌱 I’m currently learning cpp, java, mysql and python
+- 🌱 I’m currently learning cpp, java, angular
 - 💞️ I’m looking to collaborate on ... anything
 - 📫 How to reach me ...
 
